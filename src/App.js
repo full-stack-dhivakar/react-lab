@@ -13,7 +13,7 @@ const App = () => {
     React.createElement("h1", {}, "Adopt Me!"),
     React.createElement(Pet, {
       animal: "Dog",
-      name: "Luna",
+      name: "Karuppi",
       breed: "Havanese",
     }),
     React.createElement(Pet, {
